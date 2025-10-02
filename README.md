@@ -7,7 +7,7 @@ Software:
 - Visual Studio Code  
 - Online C++ compiler
 
-# Program 1. Binary Search
+# 1. Binary Search
 Theory with explanation of the code:
 
 - Binary Search is an efficient divide-and-conquer algorithm for searching in **sorted arrays**.  
@@ -38,7 +38,7 @@ Algorithm:
 - Ask the user if they want to search another element and repeat if required.  
 - End  
 
-# Program 2. Linear Search
+# 2. Linear Search
 Theory with explanation of the code:
 
 - Linear Search is a simple algorithm to find an element in a list.  
